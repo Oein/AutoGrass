@@ -5,4 +5,4 @@ current_month=`date +%b`
 
 monthly_file="README.md"
 
-echo -e  - Commit on ✨ : `date` \\n >> $monthly_file
+echo -e  - Commit on ✨ : `date` >> $monthly_file
